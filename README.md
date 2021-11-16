@@ -40,15 +40,15 @@ Before you start, you need to install and configure the tools:
 
 **3.** Fill in the fields *Email*, *Password* and click on the button *Continue*.
 
-![Auth0 - Create Your Account](https://res.cloudinary.com/rodrigokamada/image/upload/v1636912668/Blog/angular-auth0/auth0-step3.png)
+![Auth0 - Create your account](https://res.cloudinary.com/rodrigokamada/image/upload/v1636912668/Blog/angular-auth0/auth0-step3.png)
 
 **4.** Click on the option *Personal* and click on the button *NEXT*.
 
-![Auth0 - Account Type](https://res.cloudinary.com/rodrigokamada/image/upload/v1636998382/Blog/angular-auth0/auth0-step4.png)
+![Auth0 - Account type](https://res.cloudinary.com/rodrigokamada/image/upload/v1636998382/Blog/angular-auth0/auth0-step4.png)
 
 **5.** Let's create the application. Click on the menu *Applications* and click on the menu *Applications*.
 
-![Auth0 - Getting Started](https://res.cloudinary.com/rodrigokamada/image/upload/v1636998429/Blog/angular-auth0/auth0-step5.png)
+![Auth0 - Getting started](https://res.cloudinary.com/rodrigokamada/image/upload/v1636998429/Blog/angular-auth0/auth0-step5.png)
 
 **6.** Click on the link with the application name.
 
@@ -56,7 +56,7 @@ Before you start, you need to install and configure the tools:
 
 **7.** Copy the domain that has been generated, in my case, the domain `dev-5tf99p7c.us.auth0.com` was copied, copy the *Client ID* that has been generated, in my case, the *Client ID* `GBPB42qhMWCtvrwGmYxvm5cbHXU68nzG` was copied, select the option *Single Page Application* in the field *Application Type*, fill in the fields *Allowed Callback URLs*, *Allowed Logout URLs*, *Allowed Web Origins* and click on the button *Save Changes*.
 
-![Auth0 - Applications Settings](https://res.cloudinary.com/rodrigokamada/image/upload/v1636998434/Blog/angular-auth0/auth0-step7.png)
+![Auth0 - Applications settings](https://res.cloudinary.com/rodrigokamada/image/upload/v1636998434/Blog/angular-auth0/auth0-step7.png)
 
 **8.** Check the registered email.
 
