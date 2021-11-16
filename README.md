@@ -415,7 +415,7 @@ Build at: 2021-11-15T13:21:02.234Z - Hash: 6dbd594c55acc213 - Time: 11172ms
 
 **6.** Check the registered email.
 
-![Application - Verify Your Account](https://res.cloudinary.com/rodrigokamada/image/upload/v1636999603/Blog/angular-auth0/application-step6.png)
+![Application - Verify your account](https://res.cloudinary.com/rodrigokamada/image/upload/v1636999603/Blog/angular-auth0/application-step6.png)
 
 **7.** Ready! We test the application sign in and profile view. Auth0 documentation is available at [https://auth0.com/docs](https://auth0.com/docs).
 
