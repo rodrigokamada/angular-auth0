@@ -71,7 +71,7 @@ Before you start, you need to install and configure the tools:
 
 **1.** Let's create the application with the Angular base structure using the `@angular/cli` with the route file and the SCSS style format.
 
-```shell
+```powershell
 ng new angular-auth0 --routing true --style scss
 CREATE angular-auth0/README.md (1058 bytes)
 CREATE angular-auth0/.editorconfig (274 bytes)
@@ -116,13 +116,13 @@ auth0: {
 
 **4.** Install the `@auth0/auth0-angular` library.
 
-```shell
+```powershell
 npm install @auth0/auth0-angular
 ```
 
 **5.** Create the `SignInComponent` component.
 
-```shell
+```powershell
 ng generate component sign-in --skip-tests=true
 CREATE src/app/sign-in/sign-in.component.scss (0 bytes)
 CREATE src/app/sign-in/sign-in.component.html (22 bytes)
@@ -175,7 +175,7 @@ export class SignInComponent {
 
 **8.** Create the `ProfileComponent` component.
 
-```shell
+```powershell
 ng generate component profile --skip-tests=true
 CREATE src/app/profile/profile.component.scss (0 bytes)
 CREATE src/app/profile/profile.component.html (22 bytes)
@@ -359,7 +359,7 @@ imports: [
 
 **15.** Run the application with the command below.
 
-```shell
+```powershell
 npm start
 
 > angular-auth0@1.0.0 start
@@ -425,18 +425,18 @@ Build at: 2021-11-15T13:21:02.234Z - Hash: 6dbd594c55acc213 - Time: 11172ms
 
 **1.** Clone the repository.
 
-```shell
+```powershell
 git clone git@github.com:rodrigokamada/angular-auth0.git
 ```
 
 **2.** Install the dependencies.
 
-```shell
+```powershell
 npm ci
 ```
 
 **3.** Run the application.
 
-```shell
+```powershell
 npm start
 ```
