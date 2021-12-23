@@ -1,7 +1,7 @@
 # Angular Auth0
 
 
-Application example built with [Angular 13](https://angular.io/) with authentication using the [Auth0](https://auth0.com/) service.
+Application example built with [Angular](https://angular.io/) 13 with authentication using the [Auth0](https://auth0.com/) service.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/authentication-using-the-auth0-to-an-angular-application-eg0) in english.
 
