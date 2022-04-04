@@ -15,13 +15,13 @@ import { ProfileComponent } from './profile/profile.component';
   declarations: [
     AppComponent,
     SignInComponent,
-    ProfileComponent
+    ProfileComponent,
   ],
   imports: [
     BrowserModule,
     FormsModule,
     AuthModule.forRoot(environment.auth0),
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [
   ],
