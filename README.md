@@ -1,7 +1,7 @@
 # Angular Auth0
 
 
-Application example built with [Angular](https://angular.io/) 13 with authentication using the [Auth0](https://auth0.com/) service.
+Application example built with [Angular](https://angular.io/) 14 with authentication using the [Auth0](https://auth0.com/) service.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/authentication-using-the-auth0-to-an-angular-application-eg0) in english.
 
@@ -385,7 +385,7 @@ Build at: 2021-11-15T13:21:02.234Z - Hash: 6dbd594c55acc213 - Time: 11172ms
 ✔ Compiled successfully.
 ```
 
-**16.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-auth0/) and [Stackblitz](https://stackblitz.com/edit/angular13-auth0).
+**16.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-auth0/) and [Stackblitz](https://stackblitz.com/edit/angular14-auth0).
 
 ![Angular Auth0](https://res.cloudinary.com/rodrigokamada/image/upload/v1636984020/Blog/angular-auth0/angular-auth0.png)
 
